@@ -93,6 +93,8 @@
     justify-content: center;
     flex-direction: column;
 
+    min-width: 20%;
+
     button:not(:last-child) {
       margin-bottom: 10px;
     }
